@@ -1,4 +1,4 @@
-# Hi, I'm Gyeoungbin Lee! (☕💻)
+# Hi, I'm Gyeongbin Lee! (☕💻)
 
 I'm a undergraduate student in the Dept. of Computer Science and Engineering @ Seoul National University of Science and Technology.
 
