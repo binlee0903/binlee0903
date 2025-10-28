@@ -6,8 +6,7 @@ I'm a undergraduate student in the Dept. of Computer Science and Engineering @ S
 
 - Interests
     - 🌏 Network programming (socket programming)
-    - ⚡ Firmware programming (OS, x86, ARM, ROS)
-	- 🏎️ Automobile programming (AUTOSAR, CAN)
+    - ⚡ Firmware programming (OS, x86, ARM)
     - 👾 Computer Graphics (DirectX, WebGL, WebGPU)
 
 - Contact
